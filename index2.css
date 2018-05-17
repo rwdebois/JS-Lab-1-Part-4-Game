@@ -1,0 +1,122 @@
+body {
+  background-color: #bfdbf8;
+ 
+  }
+  .button {
+    background-color: blue;
+    border-color: black;
+    color: white;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .startButton {
+      background-color: blue;
+      border-color: black;
+      color: white;
+      height: 50px;
+      width: 100px;
+      text-align: center;
+      font-size: 16px;
+      border-radius: 10%;
+    }
+  
+  
+  ul {
+    word-spacing: 100px;
+    font-weight: normal;
+  }
+  li {
+    list-style-type: none;
+    display: inline;
+  
+  
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  section{
+    text-align: center;
+  
+  }
+  
+  #bars {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 70px;
+    margin-right: 70px;
+    border: 2px solid black;
+    padding-top: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
+  
+  p {
+    word-spacing: 80px;
+    font-weight: normal;
+  }
+  
+  progress {
+    width: 130px;
+    border: 2px solid black;
+  }
+  
+  progress::-webkit-progress-value { background: white; }
+  
+  
+  
+  .player {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .Enemy {
+    padding-top: 15px;
+  
+  }
+  
+  .text {
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 18px;
+  }
+  
+  .computer {
+    font-weight: normal;
+    text-align: left;
+    margin-left: 200px;
+  }
+  
+  #game-wrapper {
+    display: none;
+  }
+  
+  .name {
+    text-align: center;
+    margin-left: 200px;
+    font-weight: normal;
+  
+  }
+  
+  #playerName {
+    text-align: center;
+    margin-left: 200px;
+    font-weight: normal;
+  
+  }
+  
+  .enemy, .grant {
+    text-align: left;
+    margin-left: 400px;
+    font-weight: normal;
+  
+  }
+  
+  .enemylife {
+    font-weight: normal;
+  }
